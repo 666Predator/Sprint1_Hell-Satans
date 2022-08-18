@@ -7,5 +7,13 @@ public class Main {
         System.out.println("Saldo Actual : " +micuenta.getSaldoActual());
         micuenta.retirar(50000);
         System.out.println("Saldo Actual : " +micuenta.getSaldoActual());
+
+        Persona persona1= new Persona("456", "ahorro", 200000,28,"111222333","Luis Diaz");
+        System.out.println("Saldo minimo : "+persona1.getSaldoMinimo());
+        persona1.consignar(100000);
+        System.out.println("Saldo actual : "+persona1.getSaldoActual());
+        persona1.retirar(300000);
+        System.out.println("Saldo actual : "+persona1.getSaldoActual());
     }
+
 }
