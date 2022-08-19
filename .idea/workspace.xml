@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f14ef7-40da-4422-bf02-0d3bc838ceb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pedidos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pedidos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "Project.color": "340c13",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Galin/Desktop/COPIA SCRUM1/spirnt-1"
+    "last_opened_file_path": "C:/Users/Gestion Informacion/Desktop/Programacion/Ciclo3/Clon Copia/spirnt-1"
   }
 }]]></component>
   <component name="RunManager">
